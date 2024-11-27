@@ -17,3 +17,6 @@ This project analyzes the Carv airdrop by tracking token retention rates, segmen
 - **Dune Analytics**: For extracting and analyzing blockchain data.
 - **Jupyter Notebook**: For interactive development and documentation.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
